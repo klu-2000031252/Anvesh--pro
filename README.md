@@ -1,4 +1,4 @@
-# Travel-landing-page
+# Travel
 Travel Landing Page using simple HTML, CSS and JavaScript 
 
 
